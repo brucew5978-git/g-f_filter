@@ -31,5 +31,7 @@ This algorithm is also implemented in the g-h_filter.py file
 
 ## Benefits
 
-THe main benefits of using the 
+THe main benefits of using the g-h filter is the improved results when compared to using measured data alone. This is clearly shown in figure 1. 
+
+
 
