@@ -7,6 +7,11 @@ THe G-H or Alpha-Beta filter is a simplified filter for control applications, an
 
 This repo aims to explore and understand the theory behind G-F Filters and what makes them so affective at balancing sensor measurement and system prediction.
 
+# Usage
+
+This repo contains short explanation of g-h filter workings as well as a code file for experimentation.
+Refer to algorithm_theory.md for theory and g-h_filter.py for filter's demonstration
+
 ## Source: 
 - https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/01-g-h-filter.ipynb
 - https://en.wikipedia.org/wiki/Alpha_beta_filter
