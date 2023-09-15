@@ -33,5 +33,9 @@ This algorithm is also implemented in the g-h_filter.py file
 
 The main benefits of using the g-h filter is the improved results when compared to using measured data alone. This is clearly shown in figure 1. 
 
+![alt text](https://github.com/brucew5978-git/g-h_filter/blob/main/g-h_filter_result.png)
 
+Furthermore, even with an initial bad guess, the g-h filter will still converge towards the actual state value - as shown in figure 2. 
+
+![alt text](https://github.com/brucew5978-git/g-h_filter/blob/main/rlabbe_bad_initial_guess.png)
 
