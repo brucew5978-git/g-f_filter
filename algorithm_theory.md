@@ -5,7 +5,7 @@ For the rest of this file, we will define the "state" to be the actual position 
 What makes the g-h filter unique compared to other software filters is the combination of the gain parameter - g, and the smoothing parameter - h
 Both g and h factors are usually values between 0 and 1 where:  
 
-h = smoothing parameter, which is the factor that impacts the relationship between measured and prediction state - such as an object's displacement
+h = smoothing parameter, which is the factor that impacts the relationship between measured and prediction state - such as an object's displacement.
 g = gain parameter, is the factor that controls the impact between measured and predicted change in state - such as an object's velocity
 
 As a prediction will always be involved, g-h filters also requires a initial guess about the state to be used as the prediction value.
